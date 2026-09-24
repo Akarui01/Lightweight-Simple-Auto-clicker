@@ -1,1 +1,1 @@
-print("Environment is perfectly set up!")
+print("Finna click numbers!")
